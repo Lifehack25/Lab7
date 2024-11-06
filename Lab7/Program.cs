@@ -6,10 +6,12 @@ namespace Lab7
 {
     internal class Program
     {
+
+        // Utvecklare: Pontus D'Orsay
         static void Main(string[] args)
         {
-
             // DEL 1
+         
             /* Stack<Employee> stack = new();
 
             // adderar 5 Emplopyees till stacken
